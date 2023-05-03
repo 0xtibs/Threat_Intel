@@ -48,7 +48,7 @@ if __name__ == '__main__':
         formatted_intel = json.dumps(filtered_intel, indent=2)
         print("Filtered Threat Intel:\n", formatted_intel)
         
-        prompt = f"Write a threat intel report for this in a professional paragraph way:\n{formatted_intel}\n"
+        prompt = f"Write a threat intel report for this in a paragraph way:\n{formatted_intel}\n"
         report = generate_report(prompt)
         print("\nGenerated Threat Intel Report:\n", report)
     except Exception as e:
