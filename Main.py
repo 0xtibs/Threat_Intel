@@ -67,7 +67,6 @@ def generate_report(prompt):
 
 
 # Application Framework
-# Application Framework
 st.title('☠️ Threat ☠️ Information Finder: ')
 
 single_ip = st.text_input("Enter a single IP address to check threat intel: ")
