@@ -12,7 +12,7 @@ api_key = greynoise_api_key
 openai.api_key = openai_api_key
 
 #only for streamlit sharing
-api_key = st.secrets["general"]["api_key_greynoise"]
+api_key = st.secrets["general"]["greynoise_api_key"]
 openai.api_key = st.secrets["general"]["openai_api_key"]
 
 
