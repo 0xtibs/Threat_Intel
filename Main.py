@@ -10,6 +10,12 @@ from apikey import openai_api_key, greynoise_api_key
 
 api_key = greynoise_api_key
 openai.api_key = openai_api_key
+
+#only for streamlit sharing
+api_key = st.secrets["general"]["api_key_greynoise"]
+openai.api_key = st.secrets["general"]["openai_api_key"]
+
+
 os.environ['OPENAI_API_KEY'] = openai.api_key
 
 
