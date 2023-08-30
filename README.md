@@ -27,7 +27,7 @@ Clone the repository to your local machine:
 
 You will need an OpenAI and Greynoise account with API access. once you retrieve the APIs, please place them in the apikey.py script.
 
-#Running the Application
+# Running the Application
 
 Navigate to the directory containing the project files and run the following command:
 
