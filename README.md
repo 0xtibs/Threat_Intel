@@ -1,3 +1,10 @@
+
+<img width="616" alt="image" src="https://github.com/0xtibs/Threat_Intel/assets/81789402/7ee611cc-ef3f-4fd0-bea6-07477078bb37">
+
+
+
+
+
 # Threat Information Finder
 
 This application is a Streamlit-based web application that checks for available threat intelligence of IP addresses using GreyNoise and generates reports using OpenAI.
