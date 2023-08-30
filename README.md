@@ -5,7 +5,7 @@
 
 
 
-# Threat Information Finder
+# EnrichIP V1.0
 
 This application is a Streamlit-based web application that checks for available threat intelligence of IP addresses using GreyNoise and generates reports using OpenAI.
 
