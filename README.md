@@ -31,8 +31,7 @@ You will need an OpenAI and Greynoise account with API access. once you retrieve
 
 Navigate to the directory containing the project files and run the following command:
 
-```streamlit run app.py```
-
+```python3 -m streamlit run Main.py```
 Usage
 
 This Streamlit application allows you to enter a single IP address or upload a CSV file with a list of IP addresses. After you provide the IP addresses, the application will fetch threat intelligence for each IP address from the GreyNoise API, generate a report using OpenAI, and display the reports in the web interface.
