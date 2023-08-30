@@ -1,8 +1,8 @@
-#Threat Information Finder
+# Threat Information Finder
 
 This application is a Streamlit-based web application that checks for available threat intelligence of IP addresses using GreyNoise and generates reports using OpenAI.
 
-###Getting Started
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -23,7 +23,7 @@ Clone the repository to your local machine:
 
 ```git clone https://github.com/0xtibs/Threat_Intel```
 
-#API Keys
+# API Keys
 
 You will need an OpenAI and Greynoise account with API access. once you retrieve the APIs, please place them in the apikey.py script.
 
