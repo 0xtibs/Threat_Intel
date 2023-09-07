@@ -1,6 +1,5 @@
 
-<img width="616" alt="image" src="https://github.com/0xtibs/Threat_Intel/assets/81789402/7ee611cc-ef3f-4fd0-bea6-07477078bb37">
-
+<img width="726" alt="image" src="https://github.com/0xtibs/Threat_Intel/assets/81789402/77a9d0df-c576-40d1-88ed-24209c035b04">
 
 
 
